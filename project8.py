@@ -1,2 +1,2 @@
-Print "loki"
-Print "Lokesh is not working"
+Print ("loki")
+Print ("Lokesh is not working")
